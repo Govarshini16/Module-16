@@ -193,10 +193,8 @@ if __name__ == '__main__':
 ```
 
 ## OUTPUT
-```
 <img width="691" height="440" alt="image" src="https://github.com/user-attachments/assets/b3466f01-2990-4417-a645-875d2c59f363" />
 
-```
 
 ## RESULT
 Thus the Python function def insert(self, key, value): to insert elements into a B+ Tree was written and executed successfully.
